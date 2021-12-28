@@ -1,4 +1,3 @@
-# 使用高德地图API获取行政区域
+# 使用高德地图 API 下载行政区划
 
-## 预览
-[使用高德地图API获取行政区域](http://huanglii.github.io/demo/03-Dist-AMap/index.html)
+## 预览 [:point_right:](https://huanglii.github.io/admin-cn-downloader/)
